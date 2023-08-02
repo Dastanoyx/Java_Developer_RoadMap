@@ -11,7 +11,6 @@ Welcome to the Java Programming Language Bootcamp repository! This bootcamp is d
 - [Curriculum](#curriculum)
 - [Contributing](#contributing)
 - [Feedback](#feedback)
-- [License](#license)
 
 ## Introduction
 
