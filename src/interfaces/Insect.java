@@ -1,4 +1,4 @@
 package interfaces;
 
-public class Insect extends Animal{
+public abstract class Insect extends Animal{
 }
