@@ -17,5 +17,18 @@ public class Main {
 
         NumberProvider np1 = () -> 42;
         System.out.println(np1.provider());
+
+        // Lambda expressions as arguments for methods look to the method execute
+        int result1 = execute(3, 5, c1);
+        int result2 = execute(3, 5, c2);
+        int result3 = execute(3, 5, c3);
+        int result4 = execute(3, 5, new CalculatorImpl());
+        int result5 = execute(3,5, (x, y) -> x / y);
+
+        System.out.println(result1 + " " + result2 + " " + result3 + " " + result4 + " " + result5);
+    }
+
+    public static int execute(int nr1, int nr2, Calculator calculator){
+        return calculator.calculate(nr1, nr2);
     }
 }
