@@ -1,4 +1,4 @@
-# RoadMap_Java_Developer
+# Java_Developer_RoadMap
 # Java Programming Language Bootcamp
 
 Welcome to the Java Programming Language Bootcamp repository! This bootcamp is designed to take you through the fundamentals of Java programming, providing you with a solid foundation to build upon. Whether you're a beginner or looking to refresh your Java skills, this repository is the perfect place to start your journey.
