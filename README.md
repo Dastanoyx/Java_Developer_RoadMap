@@ -48,9 +48,7 @@ The bootcamp covers the following topics:
 5. Object-Oriented Programming (Classes, Objects, Inheritance, Polymorphism)
 6. Exception Handling
 7. File Input/Output
-8. Java Collections Framework
-9. Introduction to GUI (Graphical User Interface)
-10. Mini Project - Building a Simple Java Application
+8. Java Collections Framework etc...
 
 Each topic will have its own folder with relevant resources, exercises, and assignments.
 
